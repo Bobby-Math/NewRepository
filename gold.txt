@@ -1,2 +1,5 @@
 
-Gold is the most precious metal known to man. It has much higher valie tha nanythgin else hunmans have ever seen berfore/
+
+
+Gold is the most precious metal known to man. It has much higher valie tha nanythgin elsedff hunmans have ever seen berfore.
+Making some changes from the new branch / HTeis should not ebe reflected in the master bracnh//
